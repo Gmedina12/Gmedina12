@@ -17,6 +17,8 @@ Coordinated and mentored a group of new students, supporting them through their 
 
 Project: Countries GitHub Repo: https://github.com/Gmedina12/PI-Countries-main
 
+Note: I'm migrating my academic project to ASP.NET, I'm exciting... countdown started!
+
 👩‍💻 Let's Connect!
 
 Feel free to explore my projects and get in touch. Let's create something amazing together!
