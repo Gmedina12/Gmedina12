@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gina Paola</h1>
 <h3 align="center">A curious developer from Colombia</h3>
 
-I'm a Fullstack Developer and proud graduate of Henry, a renowned coding bootcamp. I love crafting functonal and user-friendly applications.
+I'm a Fullstack Developer and proud graduate of Henry, a renowned coding bootcamp. I love crafting functional and user-friendly applications.
 
 🛠️My Toolkit:
 
