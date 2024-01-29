@@ -9,15 +9,16 @@ I'm a Fullstack Developer and proud graduate of Henry, a renowned coding bootcam
 
 💼Experience:
 
+🌟 Mobile Dev at HelpmeApp
+🌟 Jr FullStack Developer at Mercado de Residuos
 🌟 Teacher Assistant at Henry
 
-Coordinated and mentored a group of new students, supporting them through their bootcamp journey. Facilitated the initial learning stages, providing guidance and addressing queries. Encouraged teamwork through pair programming and assisted in exercise problem-solving. Contributed innovative ideas to enhance the bootcamp processes, fostering a dynamic learning environment. Promoted collaboration and community building amongst fellow students.
 
 
 
-🚀Academic Project:
+🚀 Portfolio:
 
-Project: Countries GitHub Repo: https://github.com/Gmedina12/PI-Countries-main
+https://gmedina-dev.vercel.app/
 
 Note: I'm buildind new projects too , I'm exciting... countdown started!
 
