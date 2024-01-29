@@ -22,7 +22,7 @@ I'm a Fullstack Developer and I love crafting functional and user-friendly appli
 
 https://gmedina-dev.vercel.app/
 
-## Note: I'm building new projects too , I'm exciting... countdown started!
+Note: I'm building new projects too , I'm exciting... countdown started!
 
 👩‍💻 Let's Connect!
 
@@ -97,3 +97,18 @@ Feel free to explore my projects and get in touch. Let's create something amazin
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmedina12&show_icons=true&locale=en" alt="gmedina12" /></p>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Gmedina12&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://paypal.me/https://www.paypal.me/PaolaWrites" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a></div>
+<br />
