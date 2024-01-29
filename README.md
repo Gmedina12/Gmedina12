@@ -15,6 +15,7 @@ I'm a Fullstack Developer and I love crafting functional and user-friendly appli
 🌟 Mobile Dev at HelpmeApp - Currently
 🌟 Jr FullStack Developer at Mercado de Residuos
 🌟 Teacher Assistant at Henry
+🌟 Freelance tester
 
 
 🚀 Portfolio:
