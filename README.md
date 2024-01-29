@@ -21,7 +21,7 @@ I'm a Fullstack Developer and I love crafting functional and user-friendly appli
 
 https://gmedina-dev.vercel.app/
 
-Note: I'm buildind new projects too , I'm exciting... countdown started!
+## Note: I'm building new projects too , I'm exciting... countdown started!
 
 👩‍💻 Let's Connect!
 
