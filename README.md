@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gina Paola</h1>
-<h1 style="
-    background: linear-gradient(90deg, rgba(100,12,84,1) 11%, rgba(36,4,92,1) 24%, rgba(36,4,92,1) 36%, rgba(28,4,84,1) 52%, rgba(12,36,148,1) 68%, rgba(12,76,156,1) 84%, rgba(12,123,155,1) 95%);
-    -webkit-background-clip: text;
-    color: transparent;
-">
-    Título Degradado
-</h1>
+<font color="#640c54"><h1 align="center">Hi 👋, I'm Gina Paola</h1></font>
 <h3 align="center">A curious developer from Colombia</h3>
 <div align="center">
   <img src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
