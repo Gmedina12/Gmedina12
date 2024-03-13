@@ -85,10 +85,10 @@ Feel free to explore my projects and get in touch. Let's create something amazin
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" height="50" /></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" alt="Jira" height="50" /></a>
+</a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 <a href="https://app.asana.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/asana-1.svg" alt="Asana" height="50" /></a>  
 <a href="https://flutterflow.io/" target="_blank"><img style="margin: 10px" src="https://asset.brandfetch.io/id209IGdxm/ide6ubEL24.svg?updated=1700754040029" alt="FlutterFlow" height="50" /></a> 
 <a href="https://developer.android.com/?hl=es-419" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/android-studio-icon-486x512-zp9um7zl.png" alt="AndroidStudio" height="50" /></a>
-</a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 </div>
 
 </td></tr></table>  
