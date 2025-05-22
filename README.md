@@ -4,7 +4,7 @@
   <img src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
 </div>
 
-I am fulfilling my biggest dream with my life partner, friend, colleague and now husband.
+I am comin' true my biggest dream with my life partner, friend, colleague and now husband.
 
 🛠️My Toolkit:
 
