@@ -1,38 +1,25 @@
 <h1 align="center" color="#640c54">Hi 👋, I'm Gina Paola</h1>
-<h3 align="center">A curious developer from Colombia</h3>
+<h3 align="center">A young and dreamer CEO at Kheiron Company 🇦🇷 🇨🇴</h3>
 <div align="center">
   <img src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
 </div>
 
-I'm a Fullstack Developer and I love crafting functional and user-friendly applications.
+I am fulfilling my biggest dream with my life partner, friend, colleague and now husband.
 
 🛠️My Toolkit:
 
-💡 Innovative Problem-Solver: I thrive on challenges, finding creative solutions to tech puzzles is my forte. 🤝 Collaborative Team Player: As a Teacher Assistant, I led and mentored students, fostering a culture of collaboration and teamwork 👩‍💻 Diverse Skill Set: Proficient in both front-end and back-end technologies, ensuring a holistic approach to development. 🛠️ Craftsmanship: My passion is to create robust, scalable applications that deliver exceptional user experiences.
+💡 Innovative Problem-Solver: I thrive on challenges, finding creative solutions to tech puzzles is my forte. 🤝 Collaborative Team Player: As a Teacher Assistant, I led and mentored students, fostering a culture of collaboration and teamwork 👩‍💻 Diverse Skill Set: Proficient in mobile and back-end technologies (sometimes as fornt-end), ensuring a holistic approach to development. 🛠️ Craftsmanship: My passion is to create robust, scalable applications that deliver exceptional user experiences.
 
-💼Experience:
-
-🌟 Mobile Dev at <a href = "https://github.com/Helpme-App" target = "blank">Helpme App<a/> - Currently
-🌟 Jr FullStack Developer at Mercado de Residuos
-🌟 Teacher Assistant at Henry
-🌟 Freelance tester
-
-
-🚀 Portfolio:
-
-https://gmedina-dev.vercel.app/
-
-Note: I'm building new projects too , I'm exciting... countdown started!
 
 👩‍💻 Let's Connect!
 
-Feel free to explore my projects and get in touch. Let's create something amazing together!
+Feel free to explore my first projects, to discover how I revived this dream and started from scratch, and then go in to see our applications outside. I know, is a big difference 😊, but I'm so proud of that.🌻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@gmedinabelt19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gmedinabelt19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/ginapaolamedina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/ginapaolamedina" height="30" width="40" /></a>
-<a href="https://instagram.com/gmedinabelt19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gmedinabelt19" height="30" width="40" /></a>
+<a href="https://instagram.com/kheiron.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gmedinabelt19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3> 
