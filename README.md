@@ -17,9 +17,8 @@ Feel free to explore my first projects, to discover how I revived this dream and
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@gmedinabelt19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gmedinabelt19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/ginapaolamedina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/ginapaolamedina" height="30" width="40" /></a>
-<a href="https://instagram.com/kheiron.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gmedinabelt19" height="30" width="40" /></a>
+<a href="https://instagram.com/kheiron.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kheiron.co" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3> 
