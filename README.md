@@ -81,9 +81,7 @@ Feel free to explore my first projects, to discover how I revived this dream and
 
 <br/>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmedina12&show_icons=true&locale=en&layout=compact" alt="gmedina12" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmedina12&show_icons=true&locale=en" alt="gmedina12" /></p>
+<p><img align="left" src="https://media.licdn.com/dms/image/v2/D4D0BAQHNH1u3ZluvGA/company-logo_200_200/company-logo_200_200/0/1720439011336/kheiron_co_logo?e=2147483647&v=beta&t=ZMEO_Lg4vHpN30SfhumlTwwFnAtml163GJFRCtAW5QY" alt="Kheiron Company SAS" /></p>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Gmedina12&&style=flat-square" align="center" />
