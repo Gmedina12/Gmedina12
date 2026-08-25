@@ -81,7 +81,7 @@ Feel free to explore my first projects, to discover how I revived this dream and
 
 <br/>  
 
-<p><img align="left" src="https://media.licdn.com/dms/image/v2/D4D0BAQHNH1u3ZluvGA/company-logo_200_200/company-logo_200_200/0/1720439011336/kheiron_co_logo?e=2147483647&v=beta&t=ZMEO_Lg4vHpN30SfhumlTwwFnAtml163GJFRCtAW5QY" alt="Kheiron Company SAS" /></p>
+<p> <a href="www.kheiron.dev" target= "_blank"><img align="left" src="https://media.licdn.com/dms/image/v2/D4D0BAQHNH1u3ZluvGA/company-logo_200_200/company-logo_200_200/0/1720439011336/kheiron_co_logo?e=2147483647&v=beta&t=ZMEO_Lg4vHpN30SfhumlTwwFnAtml163GJFRCtAW5QY" alt="Kheiron Company SAS" /></p> </a>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Gmedina12&&style=flat-square" align="center" />
